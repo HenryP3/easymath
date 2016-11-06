@@ -2,12 +2,12 @@ package br.com.easymath.test;
 
 import java.math.BigDecimal;
 
+import br.com.easymath.functions.CosFunction;
+import br.com.easymath.functions.SinFunction;
 import org.junit.Assert;
 import org.junit.Test;
 
 import br.com.easymath.FunctionCatalog;
-import br.com.easymath.test.functions.CosFunction;
-import br.com.easymath.test.functions.SinFunction;
 
 public class TrigonometryMathTest {
 
